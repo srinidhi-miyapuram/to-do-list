@@ -1,1 +1,1 @@
-To do list using php is done by srinidhi.
+To do list using PHP
